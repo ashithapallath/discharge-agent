@@ -1,0 +1,35 @@
+{
+    "summary": {
+        "principal_diagnosis": "MISSING",
+        "hospital_course": "MISSING",
+        "discharge_condition": "MISSING",
+        "pending_results": [],
+        "conflicts": [],
+        "follow_up_instructions": "",
+        "clinician_review_flags": [
+            "principal_diagnosis: CLINICIAN REVIEW REQUIRED",
+            "hospital_course: CLINICIAN REVIEW REQUIRED",
+            "discharge_condition: CLINICIAN REVIEW REQUIRED"
+        ]
+    },
+    "corrected_summary": {
+        "principal_diagnosis": "MISSING",
+        "hospital_course": "MISSING",
+        "discharge_condition": "MISSING",
+        "pending_results": [
+            "Check microbiology culture results"
+        ],
+        "conflicts": [],
+        "follow_up_instructions": "Follow up with primary care physician",
+        "clinician_review_flags": [
+            "principal_diagnosis: CLINICIAN REVIEW REQUIRED",
+            "hospital_course: CLINICIAN REVIEW REQUIRED",
+            "discharge_condition: CLINICIAN REVIEW REQUIRED"
+        ]
+    },
+    "corrections": [
+        "missing_pending_results",
+        "missing_followup"
+    ],
+    "reward": 0.8587
+}

@@ -1,0 +1,310 @@
+{
+    "summary": {
+        "patient_demographics": "MISSING",
+        "admission_date": "MISSING",
+        "discharge_date": "MISSING",
+        "principal_diagnosis": {
+            "value": "ACUTE GASTROENTERITIS WITH DEHYDRATION",
+            "evidence": "DIAGNOSIS: 1) ACUTE GASTROENTERITIS WITH DEHYDRATION",
+            "confidence": 1.0
+        },
+        "secondary_diagnoses": [
+            {
+                "value": "URINARY TRACT INFECTION",
+                "evidence": "2) URINARY TRACT INFECTION",
+                "confidence": 1.0
+            }
+        ],
+        "hospital_course": {
+            "value": "Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.64me/dl) done was elevated. Serum electrolytes done showed low serum sodium( 128.00mnol/L). Urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited. She was treated with IV fluids,",
+            "evidence": "COURSE IN THE HOSPITAL: Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.64me/dl) done was elevated. Serum electrolytes done showed low serum sodium( 128.00mnol/L). Urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited. She was treated with IV fluids,",
+            "confidence": 1.0
+        },
+        "procedures": [
+            {
+                "value": "USG abdomen and pelvis",
+                "evidence": "USG abdomen and pelvis done",
+                "confidence": 1.0
+            }
+        ],
+        "discharge_medications": [
+            {
+                "name": "RACIPER 40MG",
+                "dose_frequency": "1-0-0",
+                "duration": "7 DAYS",
+                "notes": "BEFORE FOOD",
+                "evidence": "TAB. RACIPER 40MG | 1-0-0 7 DAYS (BEFORE FOOD)",
+                "confidence": 1.0
+            },
+            {
+                "name": "EMESET",
+                "dose_frequency": "MISSING",
+                "duration": "3 DAYS",
+                "notes": "MISSING",
+                "evidence": "TAB, EMESET 3 DAYS",
+                "confidence": 1.0
+            },
+            {
+                "name": "M STRONG J",
+                "dose_frequency": "1-0-0",
+                "duration": "15 DAYS",
+                "notes": "MISSING",
+                "evidence": "TAB M STRONG J 1-0-0 IS DAYS",
+                "confidence": 1.0
+            },
+            {
+                "name": "ENTR\u00a2",
+                "dose_frequency": "MISSING",
+                "duration": "3 DAYS",
+                "notes": "MISSING",
+                "evidence": "TAB. ENTR\u00a2 \u201810 -] 3 DAYS",
+                "confidence": 0.8
+            },
+            {
+                "name": "MEFTAL SPAS",
+                "dose_frequency": "MISSING",
+                "duration": "MISSING",
+                "notes": "4TABLETS",
+                "evidence": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+                "confidence": 0.7
+            }
+        ],
+        "medication_reconciliation": [
+            {
+                "medication": {
+                    "name": "RACIPER 40MG",
+                    "dose_frequency": "1-0-0",
+                    "duration": "7 DAYS",
+                    "notes": "BEFORE FOOD",
+                    "evidence": "TAB. RACIPER 40MG | 1-0-0 7 DAYS (BEFORE FOOD)",
+                    "confidence": 1.0
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "EMESET",
+                    "dose_frequency": "MISSING",
+                    "duration": "3 DAYS",
+                    "notes": "MISSING",
+                    "evidence": "TAB, EMESET 3 DAYS",
+                    "confidence": 1.0
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "M STRONG J",
+                    "dose_frequency": "1-0-0",
+                    "duration": "15 DAYS",
+                    "notes": "MISSING",
+                    "evidence": "TAB M STRONG J 1-0-0 IS DAYS",
+                    "confidence": 1.0
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "ENTR\u00a2",
+                    "dose_frequency": "MISSING",
+                    "duration": "3 DAYS",
+                    "notes": "MISSING",
+                    "evidence": "TAB. ENTR\u00a2 \u201810 -] 3 DAYS",
+                    "confidence": 0.8
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "MEFTAL SPAS",
+                    "dose_frequency": "MISSING",
+                    "duration": "MISSING",
+                    "notes": "4TABLETS",
+                    "evidence": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+                    "confidence": 0.7
+                },
+                "status": "continued"
+            }
+        ],
+        "allergies": [],
+        "follow_up_instructions": {
+            "value": "Urine culture and sensitivity sent- report awaited. Review immediately in case of fever, loose stools, vomiting, fatigue. Review on 09.03. 2026. CBC",
+            "evidence": "Urine culture and sensitivity sent- report awaited. Review immediately in case of fever, loose stools, vomiting, fatigue. Review on 09.03. 2026. CBC",
+            "confidence": 1.0
+        },
+        "pending_results": [
+            "urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited",
+            "meftal spas itabsos | 4tablets  follow-up instructions:  urine culture and sensitivity sent- report awaited"
+        ],
+        "discharge_condition": {
+            "value": "Hemodynamically stable",
+            "evidence": "Hemodynamically stable",
+            "confidence": 1.0
+        },
+        "conflicts": [],
+        "clinician_review_flags": []
+    },
+    "corrected_summary": {
+        "patient_demographics": "MISSING",
+        "admission_date": "MISSING",
+        "discharge_date": "MISSING",
+        "principal_diagnosis": {
+            "value": "ACUTE GASTROENTERITIS WITH DEHYDRATION",
+            "evidence": "DIAGNOSIS: 1) ACUTE GASTROENTERITIS WITH DEHYDRATION",
+            "confidence": 1.0
+        },
+        "secondary_diagnoses": [
+            {
+                "value": "URINARY TRACT INFECTION",
+                "evidence": "2) URINARY TRACT INFECTION",
+                "confidence": 1.0
+            }
+        ],
+        "hospital_course": {
+            "value": "Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.64me/dl) done was elevated. Serum electrolytes done showed low serum sodium( 128.00mnol/L). Urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited. She was treated with IV fluids,",
+            "evidence": "COURSE IN THE HOSPITAL: Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.64me/dl) done was elevated. Serum electrolytes done showed low serum sodium( 128.00mnol/L). Urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited. She was treated with IV fluids,",
+            "confidence": 1.0
+        },
+        "procedures": [
+            {
+                "value": "USG abdomen and pelvis",
+                "evidence": "USG abdomen and pelvis done",
+                "confidence": 1.0
+            }
+        ],
+        "discharge_medications": [
+            {
+                "name": "RACIPER 40MG",
+                "dose_frequency": "1-0-0",
+                "duration": "7 DAYS",
+                "notes": "BEFORE FOOD",
+                "evidence": "TAB. RACIPER 40MG | 1-0-0 7 DAYS (BEFORE FOOD)",
+                "confidence": 1.0
+            },
+            {
+                "name": "EMESET",
+                "dose_frequency": "MISSING",
+                "duration": "3 DAYS",
+                "notes": "MISSING",
+                "evidence": "TAB, EMESET 3 DAYS",
+                "confidence": 1.0
+            },
+            {
+                "name": "M STRONG J",
+                "dose_frequency": "1-0-0",
+                "duration": "15 DAYS",
+                "notes": "MISSING",
+                "evidence": "TAB M STRONG J 1-0-0 IS DAYS",
+                "confidence": 1.0
+            },
+            {
+                "name": "ENTR\u00a2",
+                "dose_frequency": "MISSING",
+                "duration": "3 DAYS",
+                "notes": "MISSING",
+                "evidence": "TAB. ENTR\u00a2 \u201810 -] 3 DAYS",
+                "confidence": 0.8
+            },
+            {
+                "name": "MEFTAL SPAS",
+                "dose_frequency": "MISSING",
+                "duration": "MISSING",
+                "notes": "4TABLETS",
+                "evidence": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+                "confidence": 0.7
+            }
+        ],
+        "medication_reconciliation": [
+            {
+                "medication": {
+                    "name": "RACIPER 40MG",
+                    "dose_frequency": "1-0-0",
+                    "duration": "7 DAYS",
+                    "notes": "BEFORE FOOD",
+                    "evidence": "TAB. RACIPER 40MG | 1-0-0 7 DAYS (BEFORE FOOD)",
+                    "confidence": 1.0
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "EMESET",
+                    "dose_frequency": "MISSING",
+                    "duration": "3 DAYS",
+                    "notes": "MISSING",
+                    "evidence": "TAB, EMESET 3 DAYS",
+                    "confidence": 1.0
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "M STRONG J",
+                    "dose_frequency": "1-0-0",
+                    "duration": "15 DAYS",
+                    "notes": "MISSING",
+                    "evidence": "TAB M STRONG J 1-0-0 IS DAYS",
+                    "confidence": 1.0
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "ENTR\u00a2",
+                    "dose_frequency": "MISSING",
+                    "duration": "3 DAYS",
+                    "notes": "MISSING",
+                    "evidence": "TAB. ENTR\u00a2 \u201810 -] 3 DAYS",
+                    "confidence": 0.8
+                },
+                "status": "continued"
+            },
+            {
+                "medication": {
+                    "name": "MEFTAL SPAS",
+                    "dose_frequency": "MISSING",
+                    "duration": "MISSING",
+                    "notes": "4TABLETS",
+                    "evidence": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+                    "confidence": 0.7
+                },
+                "status": "continued"
+            }
+        ],
+        "allergies": [],
+        "follow_up_instructions": {
+            "value": "Urine culture and sensitivity sent- report awaited. Review immediately in case of fever, loose stools, vomiting, fatigue. Review on 09.03. 2026. CBC",
+            "evidence": "Urine culture and sensitivity sent- report awaited. Review immediately in case of fever, loose stools, vomiting, fatigue. Review on 09.03. 2026. CBC",
+            "confidence": 1.0
+        },
+        "pending_results": [
+            "urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited",
+            "meftal spas itabsos | 4tablets  follow-up instructions:  urine culture and sensitivity sent- report awaited"
+        ],
+        "discharge_condition": {
+            "value": "Hemodynamically stable",
+            "evidence": "Hemodynamically stable",
+            "confidence": 1.0
+        },
+        "conflicts": [],
+        "clinician_review_flags": []
+    },
+    "corrections": [],
+    "reward": 1.0,
+    "agent_reasoning": [
+        "Read PDF",
+        "OCR extraction",
+        "Page classification",
+        "Structured extraction",
+        "Pending result detection",
+        "Conflict detection",
+        "Safety validation",
+        "Doctor review"
+    ],
+    "reward_history": [
+        0.71,
+        0.8,
+        0.88,
+        1.0
+    ]
+}
